@@ -1,3 +1,5 @@
+**This repository has been archived because Home Assistant now supports this functionality natively, starting from version 0.110.0.**
+
 # Hass MAX! Cube integration with valve position support
 
 Modified version of the [official Home Assistant MAX! Cube integration](https://www.home-assistant.io/integrations/maxcube).
